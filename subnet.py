@@ -14,10 +14,10 @@ p2First = '30.81.47.209'
 p2Last = '30.81.47.222'
 
 #problem 3
-p3Network = '197.66.9.128 '
-p3Broadcast = '197.66.9.255'
-p3First = '197.66.9.129'
-p3Last = '197.66.9.254'
+p3Network ='197.66.9.128'
+p3Broadcast ='197.66.9.255'
+p3First ='197.66.9.129'
+p3Last ='197.66.9.254'
 
 #problem 4
 p4Network = '108.52.227.32'
